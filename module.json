@@ -1,0 +1,8 @@
+{
+    "disableAutoUpdate": false,
+    "name": "no-combat-lag",
+    "author": "Alteria",
+    "description": "Some stuff to help with lag and FPS.",
+    "servers": ["https://raw.githubusercontent.com/AlteriaX/no-combat-lag/master/"],
+	"supportUrl": "https://github.com/AlteriaX/no-combat-lag/issues"
+}
